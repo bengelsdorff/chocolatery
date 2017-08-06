@@ -22,3 +22,4 @@ choco install fiddler4
 choco install evernote
 choco install spotify
 choco install mremoteng
+choco install docker-for-windows
