@@ -2,15 +2,13 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 
 choco install git.install
 choco install sourcetree
-choco install tortoisehg
+choco install gitkraken
 choco install nodejs.install
-choco install openvpn
 choco install dotnetcore
 choco install visualstudiocode
-choco install visualstudio2017community
+choco install visualstudio2017professional
 choco install visualstudio2017-workload-netweb
 choco install visualstudio2017-workload-netcoretools
-choco install visualstudio2017-workload-azure
 choco install notepadplusplus.install
 choco install googlechrome
 choco install sql-server-management-studio
@@ -23,3 +21,5 @@ choco install evernote
 choco install spotify
 choco install mremoteng
 choco install docker-for-windows
+choco install resharper
+choco install soapui
