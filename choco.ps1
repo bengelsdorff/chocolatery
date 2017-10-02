@@ -25,3 +25,4 @@ choco install mremoteng
 choco install docker-for-windows
 choco install resharper
 choco install soapui
+choco install sqltoolbelt
