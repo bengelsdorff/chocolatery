@@ -3,7 +3,6 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 choco feature enable -n allowGlobalConfirmation
 
 choco install git.install
-choco install sourcetree
 choco install gitkraken
 choco install nodejs.install
 choco install dotnetcore
