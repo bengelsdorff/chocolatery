@@ -26,3 +26,4 @@ choco install docker-for-windows
 choco install resharper
 choco install soapui
 choco install sqltoolbelt
+choco install cake.portable
