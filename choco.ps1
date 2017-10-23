@@ -28,3 +28,4 @@ choco install sqltoolbelt
 choco install cake.portable
 choco install conemu
 choco install intellijidea-community
+choco install jdk8
