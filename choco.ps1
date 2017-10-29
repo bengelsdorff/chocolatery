@@ -30,3 +30,4 @@ choco install conemu
 choco install intellijidea-community
 choco install jdk8
 choco install chromedriver
+choco install awscli
