@@ -32,3 +32,4 @@ choco install jdk8
 choco install chromedriver
 choco install awscli
 choco install awstools.powershell
+choco install kodi
