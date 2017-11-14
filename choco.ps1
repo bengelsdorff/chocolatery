@@ -5,7 +5,7 @@ choco feature enable -n allowGlobalConfirmation
 choco install git.install
 choco install gitkraken
 choco install nodejs.install
-choco install dotnetcore
+choco install dotnetcore-sdk
 choco install visualstudiocode
 choco install visualstudio2017professional
 choco install visualstudio2017-workload-netweb
