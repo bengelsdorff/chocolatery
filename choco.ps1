@@ -15,7 +15,6 @@ choco install googlechrome
 choco install sql-server-management-studio
 choco install skype
 choco install 7zip.install
-choco install procexp
 choco install curl
 choco install fiddler4
 choco install evernote
@@ -33,3 +32,4 @@ choco install chromedriver
 choco install awscli
 choco install awstools.powershell
 choco install kodi
+choco install datagrip
