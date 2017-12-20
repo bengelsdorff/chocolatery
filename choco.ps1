@@ -18,7 +18,6 @@ choco install 7zip.install
 choco install curl
 choco install fiddler4
 choco install evernote
-choco install spotify
 choco install mremoteng
 choco install docker-for-windows
 choco install resharper
