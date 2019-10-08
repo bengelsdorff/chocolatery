@@ -13,9 +13,9 @@ choco install chromedriver
 #ide
 choco install gitkraken
 choco install visualstudiocode
-choco install visualstudio2017professional
-choco install visualstudio2017-workload-netweb
-choco install visualstudio2017-workload-netcoretools
+choco install visualstudio2019professional
+choco install visualstudio2019-workload-netweb
+choco install visualstudio2019-workload-netcoretools
 choco install resharper
 choco install intellijidea-community
 choco install pycharm-community
