@@ -29,10 +29,10 @@ choco install googlechrome
 choco install skype
 choco install 7zip.install
 choco install curl
-choco install fiddler4
-choco install evernote
-choco install mremoteng
-choco install docker-for-windows
+choco install fiddler
+choco install docker-desktop
 choco install conemu
 choco install awscli
 choco install awstools.powershell
+choco install vlc
+choco install putty.install
