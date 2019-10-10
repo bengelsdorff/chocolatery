@@ -9,6 +9,7 @@ choco install dotnetcore-sdk
 choco install jdk8
 choco install python
 choco install chromedriver
+choco install terraform
 
 #ide
 choco install gitkraken
