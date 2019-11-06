@@ -18,6 +18,7 @@ choco install visualstudio2019professional
 choco install visualstudio2019-workload-netweb
 choco install visualstudio2019-workload-netcoretools
 choco install resharper
+choco install jetbrains-rider
 choco install intellijidea-community
 choco install pycharm-community
 choco install sql-server-management-studio
