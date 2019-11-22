@@ -6,7 +6,7 @@ choco feature enable -n allowGlobalConfirmation
 choco install git.install
 choco install nodejs.install
 choco install dotnetcore-sdk
-choco install jdk8
+choco install openjdk11
 choco install python
 choco install chromedriver
 choco install terraform
