@@ -6,7 +6,7 @@ choco feature enable -n allowGlobalConfirmation
 choco install git.install
 choco install nodejs.install
 choco install dotnetcore-sdk
-choco install openjdk11
+choco install jdk8
 choco install python
 choco install chromedriver
 choco install terraform
@@ -28,10 +28,12 @@ choco install datagrip
 #prg
 choco install notepadplusplus.install
 choco install googlechrome
-choco install skype
 choco install 7zip.install
 choco install curl
 choco install fiddler
+choco install postman
+choco install slack
+choco install zoom
 choco install docker-desktop
 choco install conemu
 choco install awscli
