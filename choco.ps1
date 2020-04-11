@@ -8,8 +8,8 @@ choco install nodejs.install
 choco install dotnetcore-sdk
 choco install jdk8
 choco install python
+choco install golang
 choco install chromedriver
-choco install terraform
 
 #ide
 choco install gitkraken
@@ -20,6 +20,7 @@ choco install visualstudio2019-workload-netcoretools
 choco install resharper
 choco install jetbrains-rider
 choco install intellijidea-ultimate
+choco install goland
 choco install pycharm-community
 choco install sql-server-management-studio
 choco install sqltoolbelt
